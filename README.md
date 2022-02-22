@@ -19,6 +19,6 @@ I'm a software engineer and educator working with Node.js. I teach AP level Comp
 
 🌱 currently working on testing in mocha, brushing up on my python, and reading "Designing Data-Intensive Applications" by Martin Kleppmann 🌱
 
-👩🏻‍💻  my pronouns are they/them 👩🏻‍💻 
+my pronouns are they/them 👩🏻‍💻 
 
 
